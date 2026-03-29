@@ -49,7 +49,7 @@ Disponible en alternance, je cherche une entreprise où je pourrai **apprendre, 
   rue&count_private=true" width="48%"/>                                                                                                      
     <img src="https://github-readme-stats-psi-khaki.vercel.app/api/top-langs/?username=stevendarboux-a11y&layout=compact&theme=tokyonight&hid
   e_border=true" width="48%"/>                                                                                                               
-  </p>      
+  </p>    
 ---
 
 ## 📫 Me contacter
