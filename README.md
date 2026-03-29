@@ -45,11 +45,10 @@ Disponible en alternance, je cherche une entreprise où je pourrai **apprendre, 
 ## 📈 Mes stats GitHub
 
  <p align="center">                                                                                                                         
-    <img src="https://github-readme-stats-psi-khaki.vercel.app/api?username=stevendarboux-a11y&show_icons=true&theme=tokyonight&hide_border=t
-  rue&count_private=true" width="48%"/>                                                                                                      
-    <img src="https://github-readme-stats-psi-khaki.vercel.app/api/top-langs/?username=stevendarboux-a11y&layout=compact&theme=tokyonight&hid
-  e_border=true" width="48%"/>                                                                                                               
-  </p>    
+    <img src="https://streak-stats.demolab.com?user=stevendarboux-a11y&theme=tokyonight&hide_border=true" width="48%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevendarboux-a11y&theme=tokyonight"        
+  width="48%"/>                                                                                                                              
+  </p>   
 ---
 
 ## 📫 Me contacter
